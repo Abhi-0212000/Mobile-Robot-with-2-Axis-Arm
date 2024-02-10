@@ -10,9 +10,6 @@
   <buildtool_depend>ament_cmake</buildtool_depend>
 
 <!--   ================ code that i added ===================== -->
-  <exec_depend>my_py_pkg</exec_depend>
-  <exec_depend>catch_them_all</exec_depend>
-  <exec_depend>turtle_sim</exec_depend>
   <exec_depend>robot_state_publisher</exec_depend>
   <exec_depend>gazebo_ros</exec_depend>
   <exec_depend>my_robot_description</exec_depend>
